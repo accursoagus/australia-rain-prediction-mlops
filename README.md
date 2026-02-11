@@ -47,3 +47,6 @@ docker build -t rain-predictor .
 
 # 2. Ejecutar el contenedor (realizará una inferencia de prueba)
 docker run rain-predictor
+
+---
+*Proyecto desarrollado en el marco de la Tecnicatura Universitaria en Inteligencia Artificial (FCEIA - UNR), en colaboración con Federico Barbarroja y Lautaro Cena.*
